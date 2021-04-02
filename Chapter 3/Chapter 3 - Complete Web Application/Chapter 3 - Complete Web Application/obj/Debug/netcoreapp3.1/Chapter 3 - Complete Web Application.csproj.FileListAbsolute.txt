@@ -1,0 +1,44 @@
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.exe
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.RazorAssemblyInfo.cache
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.RazorAssemblyInfo.cs
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.TagHelpers.input.cache
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.TagHelpers.output.cache
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.RazorCoreGenerate.cache
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.RazorTargetAssemblyInfo.cache
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.RazorTargetAssemblyInfo.cs
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\staticwebassets\Chapter 3 - Complete Web Application.StaticWebAssets.Manifest.cache
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\staticwebassets\Chapter 3 - Complete Web Application.StaticWebAssets.xml
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.deps.json
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.runtimeconfig.json
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.dll
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.pdb
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.Views.dll
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.Views.pdb
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Common.Logging.dll
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Common.Logging.Core.dll
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\LaunchDarkly.Cache.dll
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\LaunchDarkly.CommonSdk.StrongName.dll
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\LaunchDarkly.EventSource.dll
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\LaunchDarkly.ServerSdk.dll
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.Views.pdb
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.csproj.CopyComplete
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.dll
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.pdb
+C:\Users\micha\OneDrive\Book\Source Code\Chapter 3\Chapter 3 - Complete Web Application\Chapter 3 - Complete Web Application\obj\Debug\netcoreapp3.1\Chapter 3 - Complete Web Application.genruntimeconfig.cache

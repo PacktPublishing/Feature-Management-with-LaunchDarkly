@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@{
+    if (Model.MyFirstFeatureFlagResult)
+    {
+        <div class="text-center">
+            <h1 class="display-4">My First Feature Flag</h1>
+            <p>Congratulations! You just managed your first feature!</p>
+        </div>
+    }
+    else
+    {
+        <div class="text-center">
+            <h1 class="display-4">Welcome</h1>
+            <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        </div>
+    }
+}
+
+
