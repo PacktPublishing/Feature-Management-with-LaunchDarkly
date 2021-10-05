@@ -51,9 +51,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800562974_ColorImages.pdf).
 
 ### Related products
-* DevOps Adoption Strategies: Principles, Processes, Tools, and Trends [[Packt]](https://www.packtpub.com/product/devops-adoption-strategies-principles-processes-tools-and-trends/9781801076326?utm_source=github&utm_medium=repository&utm_campaign=9781801076326) [[Amazon]](https://www.amazon.com/dp/1801076324)
+* Azure DevOps Explained [[Packt]](https://www.packtpub.com/product/azure-devops-explained/9781800563513?utm_source=github&utm_medium=repository&utm_campaign=9781800563513) [[Amazon]](https://www.amazon.com/dp/1800563515)
 
-* The DevOps 2.5 Toolkit [[Packt]](https://www.packtpub.com/product/the-devops-2-5-toolkit/9781838647513?utm_source=github&utm_medium=repository&utm_campaign=9781838647513) [[Amazon]](https://www.amazon.com/dp/1793010536)
+* DevOps Culture and Practice with OpenShift [[Packt]](https://www.packtpub.com/product/devops-culture-and-practice-with-openshift/9781800202368?utm_source=github&utm_medium=repository&utm_campaign=9781800202368) [[Amazon]](https://www.amazon.com/dp/1800202369)
 
 ## Get to Know the Author
 **Michael Gillett**
