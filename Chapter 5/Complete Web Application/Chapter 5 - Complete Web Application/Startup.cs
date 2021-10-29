@@ -10,7 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using LaunchDarkly.Client;
 
-namespace Chapter_3___Complete_Web_Application
+namespace Chapter_5___Complete_Web_Application
 {
     public class Startup
     {
