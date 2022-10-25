@@ -59,3 +59,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Michael Gillett**
 is a head of development and a full-stack software engineer residing in London, UK. He has worked with feature management and LaunchDarkly for several years and has defined processes and techniques to enable teams to get the most from this approach to software delivery. He often talks on this subject at conferences and events.
 Michael graduated from the University of Hertfordshire with an MSc in computer science and a BEng in electrical and electronic engineering in 2012. Since 2012 Michael has been a Microsoft MVP, currently in the Windows Insider category
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800562974">https://packt.link/free-ebook/9781800562974 </a> </p>
